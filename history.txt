@@ -1,0 +1,500 @@
+   81  aptitude install update
+   82  cd ..
+   83  locate *.txt
+   84  aptitude update
+   85  update-desktop-database
+   86  locate *.txt
+   87  ls
+   88  aptitude install update-desktop-database
+   89  update-
+   90  aptitude install update
+   91  clear
+   92  aptitude install nss-updatedb
+   93  locate *.txt
+   94  update-desktop-database
+   95  locate *.txt
+   96  aptitude install updatedb
+   97  cd Descargas/
+   98  ls
+   99  cd sl-3.03/
+  100  nano sl.txt
+  101  cd ..
+  102  cd ..
+  103  dbuild-pbuilder -us -uc
+  104  cd Descargas/sl-3.03/
+  105  dbuild-pbuilder -us -uc
+  106  debuild-pbuilder -us -uc
+  107  aptitude install autopoint autotools-dev bcc gcc gcc-4.4 gcc-4.6 gcc-4.7 libmail-sendmail-perl manpages-dev tcc build-essential
+  108  nano sl.h
+  109  nano sl.h
+  110  dpkg-buildpackage  -us -uc
+  111  dpkg-source --commit
+  112  cd ..
+  113  aptitude remove  --purge sl
+  114  ls
+  115  dpkg-buildpackage  -us -uc
+  116  cd sl-3.03/
+  117  ls
+  118  cd..
+  119  cd ..
+  120  ls
+  121  dpkg -i sl_3.03-17_amd64.deb 
+  122  ls
+  123  ls
+  124  cd ..
+  125  ls
+  126  git push https://github.com/julioh/cursoasl.git
+  127  aptitude install grandr
+  128  aptitude search grandr
+  129  aptitude chosw lx
+  130  aptitude chow lxgrandr
+  131  chow lxgrandr
+  132  aptitude install grandr
+  133  aptitude chow lxrandr
+  134  aptitude chow lxrandr
+  135  aptitude chow lxrandr 
+  136  aptitude install grandr
+  137  aptitude install lxrandr
+  138  aptitude remove lxrandr
+  139  aptitude purge lxrandr
+  140  aptitude install lxrandr
+  141  aptitude remove --purge lxrandr
+  142  aptitude install bb -y
+  143  aptitude update
+  144  updatedb
+  145  update-desktop-database
+  146  locate *.txt
+  147  cd ..
+  148  locate *.txt
+  149  update-desktop-database
+  150  update-desktop-database
+  151  locate *.txt
+  152  clear
+  153  update
+  154  man update
+  155  man install
+  156  man apt
+  157  man aptitude
+  158  man locate
+  159  man update
+  160  clear
+  161  updatedb
+  162  locate *.txt
+  163  cd Descargas/
+  164  dpkg -i openproj_1.4-2.deb 
+  165  dpkg -R 
+  166  dpkg -R openproj 
+  167  dpkg -r openproj 
+  168  apt-get source sl
+  169  aptitude install dpkg-dev
+  170  apt-get source sl
+  171  ls
+  172  cd sl-3.03/
+  173  nano 
+  174  nano sl
+  175  cd ..
+  176  cd nano sl-3.03/
+  177  nano sl-3.03/
+  178  cd 
+  179  cd sl
+  180  cd sl_3.03
+  181  debuild -us uc
+  182  aptitude install pdebuild-cross 
+  183  ls
+  184  ls -la
+  185  aptitude install debmirror
+  186  debmirror --host=http.us.debian.org --root=debian --cleanup --nosource --ignore-missing-release --progress --ignore-release-gpg --arch=i386,amd64 --dist=wheezy,jessie --method=http --section=main,contrib,non-free
+  187  debmirror --host=http.us.debian.org --root=debian --cleanup --nosource --ignore-missing-release --progress --ignore-release-gpg --arch=i386,amd64 --dist=wheezy,jessie --method=http --section=main,contrib,non-free /var/www/debian
+  188  ls
+  189  nano /etc/apt/surces.list
+  190  nano /etc/apt/sources.list
+  191  nano /etc/apt/sources.list
+  192  aptitude update
+  193  aptitude install crontab
+  194  crontab -l
+  195  aptitude install cron
+  196  cron -l
+  197  cron
+  198  crontab
+  199  ps -ef   |  grep crond
+  200  cd ..
+  201  mkdir paquete 
+  202  cd paquete/
+  203  apt-get sources bmon
+  204  aptitude install bmon
+  205  nano /etc/apt/sources.list
+  206  aptitude install bmon
+  207  apt-get sources bmon
+  208  apt-get source bmon
+  209  ls
+  210  nano bmon-2.0.1/
+  211  cd bmon-2.0.1/
+  212  ls
+  213  cd src
+  214  ls
+  215  nano out_ascii.c 
+  216  nano out_ascii.c 
+  217  dpkg-buildpackage -us -uc
+  218  cd ..
+  219  dpkg-buildpackage -us -uc
+  220  dpkg-source --commit
+  221  cd ..
+  222  cd bmon-2.0.1/
+  223  ls
+  224  cd src
+  225  nano out_corses.c
+  226  ls
+  227  nano out_curses.c
+  228  cd ..
+  229  dpkg-buildpackage -us -uc
+  230  cd ..
+  231  ls
+  232  rm -rf bmon_2.0.1-3_amd64.deb
+  233  cd bmon-2.0.1/
+  234  dpkg-buildpackage -us -uc
+  235  cd ..
+  236  ls
+  237  aptitude remove --purge bmon
+  238  dpkg -i bmon_2.0.1-3_amd64.deb 
+  239  bmon
+  240  aptitude search canaima-desarrollador 
+  241  aptitude install canaima-desarrollador 
+  242  aptitude search canaima-desarrollador 
+  243  cd /home/equipo4/
+  244  mkdir canaima
+  245  cd canaima/
+  246  canaima-desarrollador 
+  247  ls -la
+  248  exit
+  249  adduser lab
+  250  ls | home
+  251  ls /home
+  252  deluser lab
+  253  ls
+  254  ls /home
+  255  adduser lab
+  256  ls
+  257  ls /home
+  258  passwd lab
+  259  ps -aux | grep tty
+  260  ps -aux | grep tty
+  261  kill -9 2491
+  262  kill -9 2492
+  263  ps -aux | grep tty
+  264  ps -aux | grep tty
+  265  kill -9 2493 7131 7149 7150
+  266  ps -aux | grep tty
+  267  nano /etc/group
+  268  visudo
+  269  ps -aux | grep tty
+  270  ps -aux | grep tty
+  271  fdisk -l
+  272  cfdisk 
+  273  fdisk -l
+  274  fdisk -l
+  275  apt-get source canaima-acerca
+  276  ls
+  277  cd canaima-acerca-gnome-3.1/
+  278  ls
+  279  nano canaima-acerca-gnome.py 
+  280  aptitude install imagemagick
+  281  history
+  282  c-s construir --medio="iso" --arquitectura="i386" --sabor="popular"
+  283  c-s construir --medio="iso" --arquitectura="i386" --sabor="primera-base"
+  284  c-s construir --medio="iso" --arquitectura="i386" --sabor="gobernacion"
+  285  aptutude install xtightvn
+  286  aptutude install xtightvncvierwer
+  287  aptutude install xtightvncviewer
+  288  aptitude install xtightvncviewer
+  289  x11vnc -bg -gui -passwd
+  290  ls
+  291  cd control/
+  292  ls
+  293  cd paquetecanaina/
+  294  ls
+  295  cd ..
+  296  ls
+  297  cd ..
+  298  ls
+  299  cd canaima
+  300  ls
+  301  cp -r institucional
+  302  cp --help
+  303  history
+  304  x11vnc
+  305  aptitude install arp-scan
+  306  arp-scan --interface=eth0 -- localnet
+  307  arp-scan --interface=eth0 --localnet
+  308  aptitude install nmap
+  309  nmap -A -TA 172.16.1.122
+  310  nmap -A -T4 172.16.1.122
+  311  nmap -A 172.16.1.122
+  312  nmap -A 172.16.1.64
+  313  nmap -A -T4 172.16.1.63
+  314  nmap -A -T4 172.16.1.63
+  315  nano /etc/ssh/sshd_config
+  316  nano /etc/ssh/ssh_config
+  317  cd /etc/init.d/
+  318  ls
+  319  cd ..
+  320  cd ..
+  321  /etc/init.d reset
+  322  aptitude install ssh 
+  323  nano /etc/ssh/sshd_config
+  324  /etc/init.h/ssh restart
+  325  /etc/init.d/ssh restart
+  326  nmap -A
+  327  nmap -A -T4 ssh
+  328  nmap -A -T4 172.16.1.63
+  329  nmap 172.16.1.63
+  330  nano /etc/ssh/sshd_config
+  331  nano /etc/ssh/ssh_config
+  332  /etc/init.d/ssh restart
+  333  nmap -A -T4 172.16.1.63
+  334  nmap 172.16.1.63
+  335  nano /etc/ssh/ssh_config
+  336  /etc/init.d/ssh restart
+  337  nmap 172.16.1.63
+  338  nmap -A -T4 172.16.1.63
+  339  nano /etc/ssh/ssh_config
+  340  nano /etc/ssh/sshd_config
+  341  /etc/init.d/ssh restart
+  342  nmap -A -T4 172.16.1.63
+  343  nmap 172.16.1.63
+  344  /etc/init.d/sshd restart
+  345  nano /etc/ssh/sshd_config
+  346  nano /etc/ssh/ssh_config
+  347  /etc/init.d/ssh restart
+  348  nmap 172.16.1.63
+  349  cd /usr/share/canaima-semilla/profiles/institucional
+  350  ls
+  351  man crontab
+  352  man show
+  353  man chow
+  354  man history
+  355  history history 
+  356   history
+  357  cd ..
+  358  c.. /usr/share/canaima-semilla/profiles/
+  359  cd ..
+  360  cd ..
+  361  cd ..
+  362  cd ..
+  363  ls
+  364  rm -rf institucional
+  365  ls
+  366  cd home/
+  367  ls
+  368  cd equipo4/
+  369  ls
+  370  rm -fr a
+  371  rm -fr b
+  372  ls
+  373  cat canaima
+  374  cd camaina
+  375  rm -fr canaima
+  376  rm -fr canaima-acerca-gnome-3.1
+  377  ls
+  378  rm -fr canaima-acerca-gnome_3.1-15.debian.tar.gz
+  379  ls
+  380  rm -fr canaima-acerca-gnome_3.1-15.orig.tar.gz
+  381  ls
+  382  rm -fr canaima-acerca-gnome_3.1.orig.tar.gz
+  383  ls
+  384  rm -fr cursoasl2
+  385  rm -fr cursoasl
+  386  rm -fr gnulinux
+  387  rm -fr canaima-acerca-gnome_3.1-15.dsc 
+  388  ls
+  389  rm -fr consola.txt 
+  390  rm -fr edgardiaz.txt 
+  391  rm -fr paquetes.txt
+  392  rm -fr permiso.txt 
+  393  ls
+  394  rm -fr paquete
+  395  cat edgar/
+  396  rm -fr edgar
+  397  rm -fr control
+  398  ls
+  399  ls -la
+  400  cd Documentos/
+  401  ls
+  402  rm -rf paquetecanaina
+  403  ls
+  404  cd /user/share/canaima-semilla
+  405  cd /user/share/
+  406  cd /user/share/canaima-semilla/
+  407  cd /usr/share/canaima-semilla/
+  408  log
+  409  ls
+  410  cd iso
+  411  cd isos
+  412  ls
+  413  nano build.201406200843.log 
+  414  cd ..
+  415  ls
+  416  nano profiles/
+  417  nano profiles
+  418  cd profiles/
+  419  ls
+  420  nano gobernacion
+  421  cd gobernacion/
+  422  ls
+  423  nano profile.conf 
+  424  cd ..
+  425  cp -R institucional
+  426  cp -r institucional
+  427  cp --r institucional
+  428  cp-r institucional
+  429  cp -r institucional/
+  430  ls
+  431  cp -r institucional/ iaa
+  432  cp -R institucional/ iaa
+  433  ls
+  434  cd ..
+  435  cp -R institucional/ iaa
+  436  cp -r institucional/iaa
+  437  ls
+  438  cd profiles/
+  439  ls
+  440  cd primera-base/
+  441  ls
+  442  cd ..
+  443  cp -r institucional
+  444  cp -r primera-base/institucional
+  445  cp -r primera-base /institucional
+  446  ls
+  447  cp -r primera-base/ institucional
+  448  ls
+  449  cd institucional/
+  450  ls
+  451  nano profile.conf 
+  452  nano profile.conf 
+  453  hystory
+  454  history
+  455  nano profile.conf 
+  456  c-s contruir --medio="iso" --arquitectura="i386" --sabor"institucional"
+  457  cd ..
+  458  c-s contruir --medio="iso" --arquitectura="i386" --sabor"institucional"
+  459  cd ..
+  460  cd isos
+  461  ls
+  462  chroot chroot
+  463  cd ..
+  464  ls
+  465  cd actividadcursoasl/
+  466  ls
+  467  mkdir curso1.txt  
+  468  ls
+  469  chmod 065 curso1.txt
+  470  ls -la
+  471  mkdir curso2.txt
+  472  mkdir curso3.txt
+  473  mkdir curso4.txt
+  474  mkdir curso5.txt
+  475  chmod 726 curso2.txt
+  476  chmod 111 curso3.txt
+  477  chmod 227 curso4.txt
+  478  chmod 064 curso5.txt
+  479  ls -la
+  480  mkdir cunaguaro
+  481  ls
+  482  cd cunaguaro
+  483  dpkg -l >> cunaguaro.txt
+  484  ls
+  485  cat cunaguaro.txt 
+  486  cd..
+  487  cd ..
+  488  mkdir kernel && cd kernel && uname -a >> kernel.txt 
+  489  ls
+  490  cat kernel.txt 
+  491  cd ..
+  492  mv kernel/ kernel1.0
+  493  ls
+  494  cat kernel1.0/
+  495  cd kernel1.0/
+  496  ls
+  497  cd..
+  498  cd ..
+  499  ls
+  500  iwconfig 
+  501  dhclient etho -sf
+  502  dhclient etho -cf
+  503  dhclient -cf 
+  504  dhclient wlan0 -sf
+  505  dhclient wlan0 -cf
+  506  ls
+  507  apt-get source sl
+  508  ls
+  509  cd sl-3.03/
+  510  ls
+  511  nano sl.c
+  512  nano sl.h
+  513  cd ..
+  514  sl
+  515  dpkg -buildpackage -us -uc
+  516  dpkg-source --commit
+  517  ls
+  518  cd sl
+  519  cd sl-3.03/
+  520  dpkg-source --commit
+  521  cd ..
+  522  dpkg-buildpackage -us -uc
+  523  cd sl-3.03/
+  524  dpkg-buildpackage -us -uc
+  525  cd ..
+  526  git push
+  527  ifconfig
+  528  iwconfig wlan
+  529  iwconfig wlan0
+  530  x11vnc
+  531  mkdir canaima-semilla
+  532  cd canaima-semilla/
+  533  apt-get source canaima-semilla
+  534  ls
+  535  cd ..
+  536  rm -fr canaima-semilla/
+  537  mkdir canaima-semilla
+  538  cd canaima-semilla/
+  539  apt-get source canaima-base
+  540  ls
+  541  cd canaima-base-4.0+3/
+  542  ls
+  543  cd ..
+  544  cd ..
+  545  rm -fs canaima-semilla/
+  546  rm -fc canaima-semilla/
+  547  rm -fr canaima-semilla/
+  548  mkdir canaima-semilla
+  549  ls
+  550  cd canaima-semilla/
+  551  cd ..
+  552  cd ..
+  553  cd ..
+  554  cd evaluacion/actividadcursoasl/
+  555  mv /usr/share/canaima-semilla/profiles/primera-base/ edgar
+  556  ls
+  557  cd edgar
+  558  ls
+  559  mv edgar profile.conf
+  560  mv edgar.conf profile.conf
+  561  mv edgar.conf profile.conf .
+  562* mv edgar
+  563  ls
+  564  nano profile.conf 
+  565  git add .
+  566  git commit -a
+  567  cd ..
+  568  git push
+  569  cd edgar/
+  570  mkdir pasosiso.txt
+  571  nano pasosiso.txt/
+  572  ls
+  573  nano pasosiso.txt/
+  574  rm -rf pasosiso.txt
+  575  ls
+  576  git add .
+  577  git commit -a
+  578  cd ..
+  579  git push
+  580  history >> history.txt
